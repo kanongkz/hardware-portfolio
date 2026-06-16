@@ -12,7 +12,6 @@
 - IP6559-C 电源管理方案
 - 快充电源原理图与 PCB 工程
 
-## Related Repository
+## Portfolio Note
 
-该项目也保留了独立仓库：[kanongkz/pd-fast-charge-ip6559c](https://github.com/kanongkz/pd-fast-charge-ip6559c)。
-
+该项目已并入本作品集统一维护。

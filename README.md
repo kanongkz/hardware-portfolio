@@ -27,5 +27,4 @@
 ## Notes
 
 - 本仓库用于展示硬件工程设计能力，包含原理图与 PCB 工程源文件。
-- IP6559-C 项目也保留了原独立仓库：[kanongkz/pd-fast-charge-ip6559c](https://github.com/kanongkz/pd-fast-charge-ip6559c)。
-
+- IP6559-C 项目已并入本作品集统一维护。
