@@ -1,0 +1,11 @@
+# Local EasyEDA backup/export folders
+*_backup/
+backup/
+exports/
+gerber/
+Gerber/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
